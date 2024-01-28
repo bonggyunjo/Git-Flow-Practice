@@ -6,3 +6,4 @@ bug_fix
 feature go
 fix
 hotfix
+hotfix1
