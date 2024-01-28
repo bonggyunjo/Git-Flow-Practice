@@ -1,4 +1,9 @@
 first
 2S
 3S
+<<<<<<< HEAD
 4S
+=======
+4S
+bug_fix
+>>>>>>> release/0.2
