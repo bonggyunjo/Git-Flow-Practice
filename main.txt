@@ -12,8 +12,13 @@ bug_fix
 =======
 bug_fix
 feature go
+<<<<<<< HEAD
 >>>>>>> release/0.2
 =======
 feature go
 fix
 >>>>>>> release/0.2
+=======
+fix
+hotfix
+>>>>>>> hotfix
