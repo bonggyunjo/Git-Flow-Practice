@@ -3,7 +3,12 @@ first
 3S
 <<<<<<< HEAD
 4S
+<<<<<<< HEAD
 =======
 4S
 bug_fix
+>>>>>>> release/0.2
+=======
+bug_fix
+feature go
 >>>>>>> release/0.2
