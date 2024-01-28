@@ -17,8 +17,13 @@ feature go
 =======
 feature go
 fix
+<<<<<<< HEAD
 >>>>>>> release/0.2
 =======
 fix
 hotfix
+>>>>>>> hotfix
+=======
+hotfix
+hotfix1
 >>>>>>> hotfix
