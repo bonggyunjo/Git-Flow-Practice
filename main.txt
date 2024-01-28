@@ -5,3 +5,4 @@ first
 bug_fix
 feature go
 fix
+hotfix
