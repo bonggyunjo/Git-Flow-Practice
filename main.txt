@@ -7,8 +7,13 @@ first
 =======
 4S
 bug_fix
+<<<<<<< HEAD
 >>>>>>> release/0.2
 =======
 bug_fix
 feature go
+>>>>>>> release/0.2
+=======
+feature go
+fix
 >>>>>>> release/0.2
